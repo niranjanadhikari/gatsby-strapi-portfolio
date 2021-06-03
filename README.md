@@ -1,3 +1,7 @@
+### Shoutout to Coding addict
+
+to follow tutorial [click here](https://www.youtube.com/watch?v=asB-dUwpH4Y&t=5195s)
+
 ## Setup Notes
 
 1. All components ready to go (including imports)
